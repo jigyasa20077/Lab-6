@@ -1,0 +1,3 @@
+Day 6 — Security and Privacy Audit
+
+Day 6 focused on security, privacy and safe use of Generative AI in aviation. The lab introduced Personally Identifiable Information (PII), sensitive information, placeholders and data minimisation. Unsafe prompts containing information such as passenger details, booking references, medical information, payment details and credentials were analysed and rewritten into privacy-safe prompts. Verification instructions were also added to prevent unsupported operational or policy commitments. The final privacy audit ensured that no real confidential or personal information was included in the GitHub portfolio.
